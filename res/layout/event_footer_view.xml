@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="#FFFFFF">
+  <TextView
+	  android:layout_width="fill_parent"
+	  android:id="@+id/tv_event_footer"
+	  android:layout_height="40dip"
+	  android:text="Loading ..."
+	  android:layout_centerVertical="true"
+	  android:paddingLeft="10dip"
+	  android:textSize="30dip"/>
+</LinearLayout>

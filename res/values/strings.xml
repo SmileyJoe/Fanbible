@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fanbible</string>
+    <string name="sp_region">Select a region</string>
+    <string name="sp_cal">Select a calender</string>
+    <string name="share_text">Check this event: www.fanbible.com/</string>
+    <string name="share_heading_text">Share Event</string>
+    
+    <!--
+    	Event Row Menu 
+     -->
+    <string name="event_row_menu_heading">Select an option</string>
+    <string name="event_row_menu_option_1">Add To Calendar</string>
+    <string name="event_row_menu_option_2">Go to link</string>
+    <string name="event_row_menu_option_3">Share</string>
+    
+    <!--
+    	Errors 
+     -->
+    <string name="no_events_list_city">Sorry there are no events  for your City</string>
+    <string name="no_events_list_footer">No Events</string>
+    <string name="all_events_list_footer">All Events Loaded</string>
+    <string name="general_error">An error occured</string>
+    
+    
+</resources>
